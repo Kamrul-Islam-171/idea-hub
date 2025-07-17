@@ -2,6 +2,8 @@
 
 A platform for sharing and discovering sustainability ideas focused on Bangladesh's environmental challenges. EcoHive connects innovators, community members, and stakeholders to collaborate on sustainable solutions.
 
+## Live Link - ( https://sustainability-idea-hub-client-topaz.vercel.app/ )
+
 ## Overview
 
 EcoHive allows users to:
